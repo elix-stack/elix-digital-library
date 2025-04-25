@@ -32,6 +32,6 @@ This project is built to support readers who struggle to find physical or digita
 For questions, suggestions, or contributions, please reach out through the contact form:  
 👉 [Contact Us](https://elix-stack.github.io/elix-showcase/projects/contactForm/contactForm.html)
 
-## License
+## 📝 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code as long as you provide proper attribution to the original author.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You can also view the [LICENSE](LICENSE) file in this repository. You are free to use, modify, and distribute the code as long as you provide proper attribution to the original author.
